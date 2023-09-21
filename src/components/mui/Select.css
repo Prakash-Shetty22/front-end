@@ -1,0 +1,21 @@
+.select {
+
+    text-align: center;
+
+    margin-top: 20px;
+}
+
+.dropdown {
+    background-color: #bcdbe2;
+    color: #fff;
+    border-radius: 3px;
+}
+
+.helpertext {
+    color: #8a2b06;
+}
+
+.MuiFormHelperText-root {
+    font-size: large;
+    color:  #8a2b06 !important;
+}
